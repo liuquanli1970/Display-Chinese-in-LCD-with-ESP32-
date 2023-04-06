@@ -3,7 +3,7 @@
 
 点阵字库我集成了16×16点阵和24×24点阵两个最常用的字库。
 
-特别感谢Bodmer/TFT_eSpi（https://github.com/Bodmer/TFT_eSPI）的基础库，本人是在他的库文件基础上进行修改的。
+特别感谢Bodmer/TFT_eSpi（https://github.com/Bodmer/TFT_eSPI ） 的基础库，本人是在他的库文件基础上进行修改的。
 另外，在本库中也集成了二维码的生成和显示函数、JPG图片文件的解码和显示、PNG文件的解码和显示，这都是很实用的。
 
 由于Arduino只支持UTF8汉字编码，而点阵字库又是根据GB2812-80编码顺序编码，Arduino IDE下，在LCD上显示汉字就变得困难重重。

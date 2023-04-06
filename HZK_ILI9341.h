@@ -93,7 +93,7 @@
                     uint16_t maxWidth = 0, uint16_t maxHeight = 0,
                     uint16_t offX = 0, uint16_t offY = 0,
                     double scale = 1.0, uint8_t alphaThreshold = 127);
-    ////以下是刘全礼添加的部分 
+    //ll
 	void HZK_Init();                
     void printStr16(String dstr, int x, int y, uint16_t c);   //涓嫳娣峰悎鏄剧ず 鏀寔UTF8缂栫爜
 	void printStr24(String dstr, int x, int y, uint16_t c);   //涓嫳娣峰悎鏄剧ず 鏀寔UTF8缂栫爜

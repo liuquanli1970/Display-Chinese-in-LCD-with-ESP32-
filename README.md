@@ -1,5 +1,7 @@
 # Display-Chinese-in-LCD-with-ESP32-
-在ESP32的SPIFFS装入字库，在LCD上任意显示
+在ESP32的SPIFFS装入字库，在LCD上任意显示，本程序是在ILI9341 LCD 240×320分辨率显示屏下进行的测试。其它类型的LCD也非常好集成。
+
+特别感谢Bodmer/TFT_eSpi的基础库，本人是在他的库文件基础上进行修改的。
 
 由于Arduino只支持UTF8汉字编码，而点阵字库又是根据GB2812-80编码顺序编码，Arduino IDE下，在LCD上显示汉字就变得困难重重。
 

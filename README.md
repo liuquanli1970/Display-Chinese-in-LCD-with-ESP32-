@@ -1,4 +1,4 @@
-# Display-Chinese-in-LCD-with-ESP32-
+# Display-Chinese-in-LCD-with-ESP32（Arduino libraries）
 在ESP32的SPIFFS装入字库，在LCD上任意显示，本程序是在ILI9341 LCD 240×320分辨率显示屏下进行的测试。其它类型的LCD也非常好集成。
 
 点阵字库我集成了16×16点阵和24×24点阵两个最常用的字库。
